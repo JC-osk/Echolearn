@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EchoLearn - AI Shadowing & Dictation",
+  "description": "An intelligent language learning tool for shadowing and dictation practice. Upload audio to automatically transcribe, translate, and segment sentences using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
